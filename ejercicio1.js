@@ -6,7 +6,10 @@ Crea una matriz de 2 filas y 2 columnas con números enteros e imprímela en con
 
 */
 
-const array = [ [1, 2], [3, 4] ]
+const array = [ 
+    [1, 2], 
+    [3, 4] 
+]
 let res = ""
 
 array.forEach(fila => {
